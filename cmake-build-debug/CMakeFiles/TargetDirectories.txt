@@ -1,0 +1,3 @@
+C:/Users/reyza/kitchensink/codeforces/codeforces-template/cmake-build-debug/CMakeFiles/codeforces_template.dir
+C:/Users/reyza/kitchensink/codeforces/codeforces-template/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/reyza/kitchensink/codeforces/codeforces-template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
